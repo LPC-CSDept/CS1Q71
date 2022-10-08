@@ -2,4 +2,4 @@
 
 ## ![A6-1](https://nimbus-screenshots.s3.amazonaws.com/s/755b581682ecd0e6e9ccc62edfbc1421.png) -->
 
-## Edit the file "main.cpp"
+## Edit "main.cpp"
